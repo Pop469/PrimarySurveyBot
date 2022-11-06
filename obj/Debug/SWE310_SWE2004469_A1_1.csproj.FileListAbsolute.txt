@@ -1,0 +1,16 @@
+D:\XMUM Academics\Year 3 Sem 2\SWE310 Programming Elective - .NET\Projects\SWE310_SWE2004469_A1_1\obj\Debug\SWE310_SWE2004469_A1_1.csproj.AssemblyReference.cache
+D:\XMUM Academics\Year 3 Sem 2\SWE310 Programming Elective - .NET\Projects\SWE310_SWE2004469_A1_1\obj\Debug\SWE310_SWE2004469_A1_1.csproj.SuggestedBindingRedirects.cache
+D:\XMUM Academics\Year 3 Sem 2\SWE310 Programming Elective - .NET\Projects\SWE310_SWE2004469_A1_1\obj\Debug\SWE310_SWE2004469_A1_1.csproj.CoreCompileInputs.cache
+D:\XMUM Academics\Year 3 Sem 2\SWE310 Programming Elective - .NET\Projects\SWE310_SWE2004469_A1_1\bin\Debug\SWE310_SWE2004469_A1_1.exe.config
+D:\XMUM Academics\Year 3 Sem 2\SWE310 Programming Elective - .NET\Projects\SWE310_SWE2004469_A1_1\bin\Debug\SWE310_SWE2004469_A1_1.exe
+D:\XMUM Academics\Year 3 Sem 2\SWE310 Programming Elective - .NET\Projects\SWE310_SWE2004469_A1_1\bin\Debug\SWE310_SWE2004469_A1_1.pdb
+D:\XMUM Academics\Year 3 Sem 2\SWE310 Programming Elective - .NET\Projects\SWE310_SWE2004469_A1_1\obj\Debug\SWE310_SWE2004469_A1_1.exe
+D:\XMUM Academics\Year 3 Sem 2\SWE310 Programming Elective - .NET\Projects\SWE310_SWE2004469_A1_1\obj\Debug\SWE310_SWE2004469_A1_1.pdb
+D:\XMUM Academics\Year 3 Sem 2\SWE310 Programming Elective - .NET\Assignment 1\SWE310_SWE2004469_A1_1\bin\Debug\SWE310_SWE2004469_A1_1.exe.config
+D:\XMUM Academics\Year 3 Sem 2\SWE310 Programming Elective - .NET\Assignment 1\SWE310_SWE2004469_A1_1\bin\Debug\SWE310_SWE2004469_A1_1.exe
+D:\XMUM Academics\Year 3 Sem 2\SWE310 Programming Elective - .NET\Assignment 1\SWE310_SWE2004469_A1_1\bin\Debug\SWE310_SWE2004469_A1_1.pdb
+D:\XMUM Academics\Year 3 Sem 2\SWE310 Programming Elective - .NET\Assignment 1\SWE310_SWE2004469_A1_1\obj\Debug\SWE310_SWE2004469_A1_1.csproj.AssemblyReference.cache
+D:\XMUM Academics\Year 3 Sem 2\SWE310 Programming Elective - .NET\Assignment 1\SWE310_SWE2004469_A1_1\obj\Debug\SWE310_SWE2004469_A1_1.csproj.SuggestedBindingRedirects.cache
+D:\XMUM Academics\Year 3 Sem 2\SWE310 Programming Elective - .NET\Assignment 1\SWE310_SWE2004469_A1_1\obj\Debug\SWE310_SWE2004469_A1_1.csproj.CoreCompileInputs.cache
+D:\XMUM Academics\Year 3 Sem 2\SWE310 Programming Elective - .NET\Assignment 1\SWE310_SWE2004469_A1_1\obj\Debug\SWE310_SWE2004469_A1_1.exe
+D:\XMUM Academics\Year 3 Sem 2\SWE310 Programming Elective - .NET\Assignment 1\SWE310_SWE2004469_A1_1\obj\Debug\SWE310_SWE2004469_A1_1.pdb
